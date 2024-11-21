@@ -1,4 +1,4 @@
-# MarsCode
+# 最牛AI助手
 
 <div align="center">
     <img src="icon.png" alt="MarsCode Logo" width="120" height="120"/>
