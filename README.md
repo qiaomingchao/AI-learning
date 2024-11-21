@@ -7,7 +7,7 @@
 
 ## 简介
 
-MarsCode 是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
+MarsCode助理 是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
 
 ## 特性
 
@@ -30,8 +30,8 @@ MarsCode 是一个基于 Streamlit 开发的智能编程助手应用，它提供
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/marscode.git
-cd marscode
+git clone https://gitcode.com/langgptai/aichat.git
+cd aichat
 ```
 
 2. 安装依赖：
